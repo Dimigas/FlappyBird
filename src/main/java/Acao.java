@@ -6,4 +6,5 @@
 public interface Acao {
 
     void executa();
+    //errado
 }
